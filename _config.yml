@@ -29,10 +29,13 @@ github_username:  ajone239
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - arcade.md
+  - book_reviews/index.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
