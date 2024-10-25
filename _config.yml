@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: White Boy Bars
+title: Austin's Journey for Meaning
 email: ajones53.aj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musings on things interest or vex me.
-  Lilting poetry and sick, twisted rhymes.
+  A place for me to put stuff.
   Consider hiring me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
