@@ -24,7 +24,7 @@ The Snaatch family has a pedigree whose depth is only rivaled by its purity.
 An old wizarding family with a long standing tradition in the practice of Abjuration.
 Heralded as the "Iron Guard of Deloria", the Snaatch family has a history deep entwined with the proud city of Deloria.
 As the settlement was budding into a township, it was the Snaatch family's charms, wards, and banishings that kept its denizens safe.
-With time, Deloria grew into the city we know it as now, in step the protection evolved with the city.
+With time, Deloria transformed into the city we know it as now, and in step the protection evolved alongside.
 As veritable "founders", the Snaatch family naturally grew with its city.
 Protection can't be free; even if it has no price, the protector will always garner favor from the protected.
 
