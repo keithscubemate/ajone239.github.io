@@ -34,11 +34,11 @@ It offered a nearly infallible defense from all the assailants, and those who ge
 In the old times of peace, the defenses still held strong.
 Our benevolent guild of protectors split their time between:
 maintaining the guard with understood languor,
+using well funneled taxes for universities to further magic (mainly their magic),
+and offering private protection -- at a premium of course.
 <!--
 using the well funneled taxes to fund universities that further advance magic (mainly their magic),
 -->
-using well funneled taxes for universities to further magic (mainly their magic),
-and offering private protection -- at a premium of course.
 
 However, we find ourselves in _new_ times of peace.
 In these new times, the Snaatch protections grow thinner over the heads of anyone who doesn't have deep pockets or elvish blood.
