@@ -46,10 +46,22 @@ By the same sword, it seems that everyone but those inside of it can see the odd
 ...
 
 This is where our hero comes in.
-Thaddeus J Snaatch VII is anything but his father's son.
+Thaddeus J. Snaatch VII is anything but his father's son.
+From a young age, he was much too happy to have a friend to be selective to their creed.
+Afraid of stepping on bugs not to mention banishing beings from existence, abjuring seemed to Thaddeus less of a practice of protection and more of a practice of selection.
+
+Never one to stir the pot, his father and uncles are older and (ostensibly) wiser.
+Surely, they know how the city and its people work.
+If not for them, some other group of codgers would be enforcing curfews and the like.
+Moreover he knows that there are far worse lives than living in the nicest house in the nicest part of town.
+He has it nice: far nicer than most for certain.
+The pangs in his stomach may well be from how he feels about "the family business", but if he isn't sure he might as well hold up in a castle while he sort it out.
+Right?
 
 Why is he a Wizard?
 ====================
+
+Put simply -- why _wouldn't_ he be a wizard.
 
 What has him down on his luck?
 ====================
