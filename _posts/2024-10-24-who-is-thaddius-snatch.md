@@ -86,7 +86,7 @@ So, Thaddeus Snatch claimed the _Order of Scribes_ as his school.
 What has him down on his luck?
 ====================
 
-Thaddeus seemed to have figured out how to distance himself from his family's ward mafia while getting to keep his head in books.
+Thaddeus seemed to have figured out how to distance himself from the privatised protection syndicate of his family while getting to keep his head in books.
 Thaddeus J. Snaatch VI seemed to think differently.
 
 To put it short -- _our hero got cut off and kicked out of the house_.
