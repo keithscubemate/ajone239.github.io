@@ -1,6 +1,7 @@
 ---
 title: Impractical Patriotism
 author: Austin Jones
+layout: page
 categories: philosophy politics
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: On Maslow's Hierarchy of Needs
 author: Austin Jones
+layout: page
 categories: philosophy
 ---
 

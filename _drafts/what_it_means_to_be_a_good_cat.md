@@ -1,6 +1,7 @@
 ---
 title: What does it mean to be a Good Cat
 author: Austin Jones
+layout: page
 categories: philosophy life
 ---
 
