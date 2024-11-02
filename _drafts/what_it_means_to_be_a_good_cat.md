@@ -12,7 +12,7 @@ I've had a recent change of jobs, and I now work in an office full time.
 With this change, we spend considerably less time together.
 I want my cats to have rich and full lives.
 In researching how to enrich my cats, I came across so called "scavenge feeders".
-The idea is that the cat has to find these little mice full of kibble and beat it out of them instead of having a proverbial bag of potato chips to mange on all day.
+The idea is that the cat has to find these little mice full of kibble and beat it out of them instead of having a proverbial bag of potato chips to snack on all day.
 I have purchased and deployed these.
 
 <!-- the question -->
@@ -31,18 +31,24 @@ The classical problem with Maslow's Hierarchy of needs is that it is set up in a
 Hunger gates love.
 Love gates aesthetic pursuit.
 I think life is less linear than that.
-When I live a fully-sated life, I feel less human to a degree that I have do things like fasting or cold showers or exercise to introduce stressors back into my life.
+When I live a fully-sated life, I feel less human; like I'm just drifting.
+At times to a degree that things like fasting, cold showers, or exercise are used to introduce stressors back into my life.
 
 <!-- intro what I think the answer it -->
+In this time, _accomplishment_ can be lacking from the daily life.
+A job is required to survive but fulfillment through it isn't.
+You have to eat but it doesn't have to nourish you.
+With utilitarianism informing the content production strategies around us, it's pretty easy for the media to be similarly lacking in _nourishment_.
+So, if filling your day with things that maintain your position in the system and keep you temporarily happy leave you hollowed out, what should you do?
+No one can sell you _your_ full life as it is truly _yours_.
+Looking for things outside of you to fill you up will leave you chasing.
+
+<!-- how the answer informs humans -->
 I think the question of what does it mean to live a good life is entwined with what it means to live a true life, to live resonantly with your nature.
 Human individuals couldn't evolve fast enough to keep up with the rate the collective of them could change the world.
 So many of us don't know what to do now that the "community" that we have is simultaneously wiped out and orders of magnitude bigger than we can understand.
+We (nearly) never need to worry about bears or tigers hunting us, but many of us are stalked day and night by mountains of debt.
 But we can (thankfully) look at this and try to understand why it is discordant.
-
-<!-- how the answer informs humans -->
-We live in a world wrought with war and (recently at the time of writing) disease; I don't want to detract from the difficulty of living in the modern world.
-But it's also much harder to die from lions or a malnutrition from lack of food and not social issues.
-So in a reality where the bottom two levels of Maslow's hierarchy (physiology and safety) are met, I would posit that a sated person can often wonder "if this is it?".
 
 <!-- wait wasn't this about cats? -->
 Moreover, I want Tofu and Miso to have sate and comfortable lives, but I want them to have the joy of being a cat like I have the joy of being a human.
