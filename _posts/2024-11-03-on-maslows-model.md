@@ -5,7 +5,9 @@ layout: page
 categories: philosophy
 ---
 
-In a [recent blog post](), I made the statement that an issue with Maslow's Hierarchy of Needs is that it artificially gates levels from one another.
+
+
+In a [recent blog post]({% link _posts/2024-11-03-what-it-means-to-be-a-good-cat.md %}), I made the statement that an issue with Maslow's Hierarchy of Needs is that it artificially gates levels from one another.
 The following post is a digestion of a conversation a colleague and I had diving into that premise.
 
 To restate my claim:
