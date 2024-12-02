@@ -4,8 +4,6 @@ title: Advent of Code 2024 Day 1
 author: Austin Jones
 ---
 
-# Intro
-
 This is the first entry in a series of posts I'm making for the "Advent of Code 2024".
 In short, the Advent of Code is a set of coding challenges that fit into the format of an advent calendar.
 So for all the days in December leading up to Christmas, there will be a fun (and slightly contrived) coding problem following a Christmas story.
