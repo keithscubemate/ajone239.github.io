@@ -26,7 +26,7 @@ Even with the insight of being able move back to previous levels there are still
 Starving humans or refugees still have the capacity for love and aesthetic venture.
 War torn countries still have poets in them to record what the war felt like over what happened in the war.
 The human spirit perseveres, and it means more to be a human than to hunt and gather.
-In John Green's "The Fault in Our Stars", the main character is have a very, very close brush with cancer for the nth time.
+In John Green's "The Fault in Our Stars", the main character have a very, very close brush with cancer for the nth time.
 Despite this they fall in love and find themselves, etc., etc.
 This is fiction, but it does tell the story of using humanity to pull you through a struggle.
 Maybe the hierarchy of needs can be restacked if precariously.
