@@ -80,15 +80,35 @@ Even if the person is annoying -- taking sometime out of your day to give them c
 
 # In everything said, there is something to be heard
 
+There are many kinds of people in life.
+These people can be annoying, imposing, upsetting, or any other kind of unsavory.
+It is hard to give these people the time of day.
+Worse yet, people can be upset with you and expressing it very poorly.
+
+Another human talking to you is always trying to express something.
+It is why they are communicating.
+However challenging, it is worth trying to understand their communication.
+
+If a person talks for hours on end, they could be using the conversation with you as escape.
+A person expressing odd anger with a situation might have a hard time opening up or talking about something.
+An annoying child could just need a friend.
+Truly taking the time to understand someone affords them their humanity.
+It is something that I've always found worth it.
+
 # Own your mistakes
+
+Failure can be a complex thing.
+It is often so easy to explain why something isn't our fault.
+It takes strength to admit our fault in something.
+This strength is one that will allow us to grow.
+Don't shirk the responsibility of making a mistake, grow from the event.
 
 # No conditional apologies
 
-Maybe this comes from being a programmer or from having had a partner for a long time, but conditional apologies are hollow.
 The point of an apology is to show remorse for an action, remorse for an outcome has no ownership
 
 ```rust
-let remorse = if offended.upset {
+let remorse = if offended.is_upset() {
     offense.gravity
 } else {
     0
@@ -97,16 +117,53 @@ let remorse = if offended.upset {
 offender.grow_from(remorse);
 ```
 
+Maybe this comes from being a programmer or from having had a partner for a long time, but conditional apologies are hollow.
 To paraphrase my partner: a conditional apology doesn't mean you feel bad for having done the action, it means that you feel bad for how the offended party's reaction made you feel.
-In line with the previous tenet, apologies for your actions not the results and grow from them.
+In line with the previous tenet, apologize for your actions not the results in order to grow from them.
 
 # Make community wherever you go
 
 # You could probably use more fiber (in diet and media)
 
+Food and media is so refined.
+It distills more and more each day.
+You can [make rockets](https://www.youtube.com/watch?v=tOMH6J5F3zw) from candy.
+Wonder bread tastes like sugar.
+The same goes for media: you can watch the 500 most tantalizing scenes from The Sopranos on TikTok right now.
+
+How does all this refined consumption make you feel.
+It makes me feel awful.
+I've found that to feel okay, to feel _human_, I need some fiber in my diet.
+
+Whether it is a can of black beans (food) or a nice slow book (media), some fiber is a necessary slow down for my metabolism(s).
+The parts of our bodies that were designed to find deliciously sweet foods and shockingly surprising media weren't meant for every bite of beat to be the thing we were looking for.
+Without tension there is no resolve.
+Without bland there is no sweet.
+
+So, please have some fiber.
+
 # You never know the situations that have brought a person to you so be kind
 
+Hopefully, this one explains itself.
+From the ideas of empathy and kindness, think of all the hard days you've had and how a titch of kindness would have made it better.
+Perhaps this is the just a riff on the golden rule.
+All the same, before you are mean to a person fathom what could have brought them to you and be kind instead.
+
 # Say what is on your mind, if it ends the relationship it was going to happen
+
+"Oh but Mr. Empathy," I hear you say, "I bet you get walked all over trying to please everyone all the time."
+Full disclosure -- certainly sometimes.
+My partner says I have no boundaries, and it is to my detriment.
+The darker side of touting empathy as a value is a reflexive habit (if not defense mechanism) of knowing what the other person wants to hear.
+This can make for a happy person in the short term, but it invariably ends in the peril of both parties.
+
+So, I've found it best to speak my mind.
+But *anxiety*, I hear you say -- which is _quite_ right.
+The way I rationalize my way into speaking my mind is the end of this tenet.
+If you speaking your mind ends a relationship, the pair of you likely weren't compatible.
+
+Caveat: Do have tact.
+Yelling angry things at your friend isn't what this tenet permits.
 
 # The love of the game
 
