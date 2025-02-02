@@ -38,7 +38,9 @@ So, my feeling of lack of accomplishment in the piece of paper I received from t
 A point to wonder: the "growth" described up to know has been only one kind.
 We'll call it _horizontal growth_.
 We can imagine a skill graph:
-![Skill Graph](/_assets/skill_graph.png)
+
+![Skill Graph](_assets/skill_graph.png)
+
 On the horizontal axis, the count or breadth of skills is depicted.
 On the vertical axis, we see the depth of each skill.
 
