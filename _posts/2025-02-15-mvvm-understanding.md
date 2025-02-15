@@ -2,11 +2,15 @@
 title: MVVM understandings
 author: Austin Jones
 layout: post
+excerpt_separator: <!--more-->
 ---
+
 
 I have recently started a new job working on dotnet apps.
 Through conversations with more experienced, it was made clear that there was an architectural issue with an application that was causing growing pains.
 This document is intended to cover the source of those issues and explain the solution.
+
+ <!--more-->
 
 MVVM Misunderstandings
 ====================
