@@ -160,7 +160,7 @@ It's worth saying that neither breadth nor depth is everything.
 If I try everything in the world, then all I'll know is everything I don't know.
 If I go as deep as I can on one thing then I'll be like people who no life W.o.W.
 
-John Green once described his brain as a shrub and the more curly and entwined the branches are the more the shrub can hold.
+Hank Green once described his brain as a shrub and the more curly and entwined the branches are the more the shrub can hold.
 I just want a bushy shrub, and I want my shrub to be in a garden of other bushy shrubs.
 
 I want to lead a full life.
