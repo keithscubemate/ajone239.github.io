@@ -18,3 +18,9 @@ I hope you enjoy the site.
 If you enjoy it alot you can contact me @ [ajones53.aj@gmail.com](mailto:ajones53.aj@gmail.com).
 If you enjoy it a ton you can [buy me a coffee](https://buymeacoffee.com/ajones53ajl).
 Similarly you can find my resume [here](https://github.com/ajone239/Rezzie_CV/blob/master/resume/SP_25_resume.pdf).
+
+# ABC Notepad support
+
+If you are here for support for the ABC Notepad app.
+You can find that [here]({% link abc_support.md %}).
+
