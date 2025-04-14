@@ -29,7 +29,8 @@ Below I will discuss these briefly.
 Phrases like "Y'all are the experts." and "I'll be the first to say I don't know." are seemingly innocuous ways of saying "I don't know.".
 However, it should be firstly be said that humility, real or not, gets sparse the more you go up the chain of command.
 This, in its own right, bodes very well in the eyes of those working below someone.
-Secondly, saying "I don't know" freely implies that one might well know something if they claim to.This can of course be disproved with sufficient historical data, but not over the lifespan of a sale.
+Secondly, saying "I don't know" freely implies that one might well know something if they claim to.
+This can of course be disproved with sufficient historical data, but not over the lifespan of a sale.
 
 # Keep a very fine sense of the pulse of the conversation.
 
