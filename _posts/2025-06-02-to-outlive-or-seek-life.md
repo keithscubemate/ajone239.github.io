@@ -16,7 +16,7 @@ The important one we spoke about is 夹缝求生 (jiā fèng qiú shēng).
 This means, "survive in the cracks".
 It is pretty in its own right, but I want to dissect the Mandarin work for "to survive".
 
-The word is 求生 (qiúshēng) comprises the characters for search (生) and life (生).
+The word is 求生 (qiúshēng) comprises the characters for search (求) and life (生).
 The comparison is 求生 (search life) and the English word survive.
 
 So, survive breaks down into "sur" + "vive".
