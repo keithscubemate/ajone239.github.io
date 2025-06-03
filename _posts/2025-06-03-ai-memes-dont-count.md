@@ -75,7 +75,7 @@ All the same, I bet I could ask ChatGPT to make me a salacious cryptic crossword
 I bet it would be challenging.
 However, I wouldn't have been made it.
 
-Now, is this "it only counts if I do it machismo?".
+Now, is this "it only counts if I do it" machismo?.
 I don't think so.
 I think it is a birthday card for a parent made with construction paper and crayon.
 
