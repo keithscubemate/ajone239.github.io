@@ -38,7 +38,7 @@ What meaning is lost from my friend's poem about a yearning of serpentine fellat
 <!-- Cheetos in acrylic -->
 [Sunday Nobody](https://www.sundaynobody.com/) is a meme artist.
 You could, of course, argue that that is just an _artist_, but I digress.
-The artist preserved a bag of "Flaming Hot Cheetos" entombed it in a 9000lb. sarcophagus and then interred it in a large hole in the ground.
+The artist preserved a bag of "Flaming Hot Cheetos" entombed it in a 3000lb. sarcophagus and then interred it in a large hole in the ground.
 You can see Sunday Nobody do this [here](https://www.tiktok.com/@sunday.nobody.art/video/7162587340274240810).
 
 This is awesome.
