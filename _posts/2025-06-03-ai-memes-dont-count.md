@@ -16,8 +16,8 @@ This is funny; don't get me wrong.
 Later in the Discord for the campaign, he pasted a poem by his character to this snake lady.
 This _too_ is _funny_ -- until he said he did it with ChatGPT.
 But why is this?
-Why does a poem or a meme made by generative AI _feel_ like cheating or worse.
-And why is this loss of value orthogonal to the quality of the art.
+Why does a poem or a meme made by generative AI _feel_ like cheating or worse?
+And why is this loss of value orthogonal to the quality of the art?
 
 I write code professionally.
 I write poetry as a hobby.
