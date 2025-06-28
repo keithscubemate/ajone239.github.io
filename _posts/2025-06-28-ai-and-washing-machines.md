@@ -13,6 +13,7 @@ With the assumption that the hotel or at least the city would have a coin laundr
 You can imagine my dismay to find that there are nearly _no_ laundromats in not just [my hotel](https://www.hotelilluster.ch) or the city of Uster but the whole of Switzerland.
 (**Note**: you can find a laundromat in the northern part of Zurich, and it's decent.)
 In my research of talking to locals and conjecture, there are two scenarios in which one will need to do laundry in Switzerland:
+
 - You are a citizen of Switzerland. In this case, you _nearly always_ have access to a laundry machine. Rental complexes must provided one. Home owners will likely have one.
 - You are an employee at Money Inc. coming to Switzerland to do your money job. You likely have access to some piece of plastic that lets you get whatever you want.
 
@@ -34,10 +35,11 @@ In the bathtub of my hotel, I washed my clothes.
 - I soaked the clothes.
 - I worked the water in.
 - I added the detergent.
-- I moved the hulking mass of wet textiles around.
+- I swirled the hulking mass of wet textiles around.
 - I wrung and rinsed.
 - I wrung and rinsed.
 - I changed the water and did it again.
+- I wrung all the water out I could.
 
 This ordeal took me about 3-4 hours, and then it all had to be hung to dry.
 To be completely honest, it was fun.
@@ -65,7 +67,7 @@ I have no doubts that I would have been very tempted by this tool.
     Moreover, I had an obsession with doing it right.
     The hope being that I would learn the lesson the teacher was teaching.
 )
-Imagine the deal, for 30 minutes of prompting and editing you can get a good if not great grade and have wayy more time to go do what a person in school really wants to do--not be in school.
+Imagine the deal, for 30 minutes of prompting and editing you can get a good if not great grade and have wayy more time to go do what a person in school really wants to do -- not be in school.
 I would like to entreat upon you 2 reasons why this is a bad deal.
 
 First, let's look the tasks and outputs at hand.
@@ -77,14 +79,12 @@ So, you can automate this task and get the output with way less effort.
 **WRONG**.
 This is an extremely harmful misconception of modern output measured schooling.
 The purpose of an assignment isn't for you to make the work.
-No one will ever read your paper on _The Great Gatsby_--that's not the point.
+No one will ever read your paper on _The Great Gatsby_ -- that's not the point.
 The purpose of an assignment is for you to learn: learn the material, learn how to form an argument, learn how to pull apart a book or an idea.
 In automating the thinking out of the task you have starved yourself of the entire reason you were given it.
 
 Second, there has been a good thing about the arrival of AI, the harbinger of death for original thought.
-We all have had to think hard about what it means for a piece of media to be good.
-More importantly, we have had to think about what it means to contribute to something.
-Why are we here?
+We have had to think about what it means to contribute to something -- why are we here?
 If AI can write a book or a web app or an image of a goose on a bike, what is left for little ole humans to do?
 You can go back and check, but I don't think a single housewife has ever been cited missing the use of a washboard (or rocks in the river).
 But when I'm prompting AI to learn about a new technology and it dumps out an example app better than I could have, I feel a little sad about it.
@@ -96,7 +96,7 @@ Making something for a friend.
 Making something for yourself.
 Making something for _humanity_.
 As I said in a [recent post]({% link _post/2025-06-03-ai-memes-dont-count.md %}), AI is good, but not great.
-Great media, pieces that make you cry or laugh take a long time and alot of work.
+Great media, pieces that make you cry (laughing or otherwise) take a long time and alot of work.
 I don't mean work in.
 I mean work in preparation.
 Social media may have obscured this fact, but movements of greatness, even brief, have thousands and thousands of hours backing them.
@@ -107,7 +107,7 @@ My mom texts me, "Good morning," each morning and, "Sleep well, I love you" each
 What a bitch, am I right?
 Well before I got my first tablespoon of maturity, I kinda thought so.
 The _gall_ to want to talk to me every day!
-Don't you know I'm desperately trying to define myself without you--I digress.
+Don't you know I'm desperately trying to define myself without you -- I digress.
 With some [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) and a decent bank of rewordings of "I love mum. Have a great day!", I would be off to the races.
 This even got to the point of flow design before I realized, do I want a program texting my mom for me?
 Imagine the crushing sadness that she'd feel when she'd find out.
@@ -116,5 +116,3 @@ That said, it's important to let work be done for you.
 Delegation is a very important skill.
 But you can't delegate away your own purpose.
 So, text your mom, write your papers, be a human, but let the machines wash the clothes.
-
-
