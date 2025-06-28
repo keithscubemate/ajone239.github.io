@@ -95,7 +95,7 @@ Making is so important to being a human -- leaving a mark.
 Making something for a friend.
 Making something for yourself.
 Making something for _humanity_.
-As I said in a [recent post]({% link _post/2025-06-03-ai-memes-dont-count.md %}), AI is good, but not great.
+As I said in a [recent post]({% link _posts/2025-06-03-ai-memes-dont-count.md %}), AI is good, but not great.
 Great media, pieces that make you cry (laughing or otherwise) take a long time and alot of work.
 I don't mean work in.
 I mean work in preparation.
