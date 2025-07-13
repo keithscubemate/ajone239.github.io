@@ -1,6 +1,8 @@
 # A little blog
 
-This may turn into a blog site but for now it is the skeleton of one.
+This is my blog.
+I hope you like it.
+You can view it [here](https://ajone239.github.io).
 
 What it needs:
 - [x] RSS Feed
@@ -25,7 +27,6 @@ What it needs:
 - [ ] pagination of blog posts?
 - [ ] hosting in some other way
 
-It may ultimately be ported to my [current blog](https://ajone239.github.io).
 
 # Svelte
 
