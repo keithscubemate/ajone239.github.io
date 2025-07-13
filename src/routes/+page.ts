@@ -5,6 +5,6 @@ export const load: PageLoad = async ({ fetch }) => {
     const posts = await response.json();
 
     return {
-        posts: posts.slice(0, 5)
+        posts: posts
     };
 };
