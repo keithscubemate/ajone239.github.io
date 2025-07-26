@@ -53,7 +53,7 @@ He failed to deliver on the promises he made.
 But was does this fear actually comprise?
 I think, in part, it is a pragmatic fear of disservicing people you love.
 As you can tell from the term of endearment "biological father", he and I aren't on exactly _liking_ terms either.
-I have been through the fun cycle of trying to love someone of them being unlikable.
+I have been through the fun cycle of trying to love someone despite them being chronically unlikable.
 The thought of putting others through that _scares_ me.
 
 <!-- thesis -->
@@ -63,7 +63,7 @@ And no, I'm not afraid of "needing your love" like I might do in a song from the
 I'm afraid of needing your your love, because maybe without out it, I'm just not likeable enough -- I just don't provided enough value.
 It feels that to be allowed to win is to be lied to.
 If someone puts up with your unfunny jokes you are being cheated from experience.
-I fear that the things done in the name of love will coddle my own weakness.
+I fear that the things done in the name of love will coddle my own weaknesses.
 
 <!-- why a fear of weakness breeds more weakness -->
 However, a fear of weakness is something that _counterintuitively_ makes and keeps you weak.
@@ -73,7 +73,14 @@ Things like asking questions, accepting help, or relying on other may be "weak".
 More often though, they can be an enabling step for people to grow.
 I don't think any of us taught ourselves to read.
 
+<!-- connect these two sections better -->
+
 <!-- how do i go easy on myself without being a bum -->
+<!--
+    TODO(ajone239): tie this to the main theme better.
+
+    It drifts away from thesis of "allow yourself to lean on others"
+-->
 A reservation I had before I started therapy was something to the tune of, "what if my issues that I have _make_ me hardworking and good at problem solving."
 That's shockingly untrue looking at it from the other side, however, "The drugs make the art," is a common refrain with creators.
 This reservation morphed from "anxiety makes me smart" into "I'm afraid to give myself any slack because I'll become a bum."
