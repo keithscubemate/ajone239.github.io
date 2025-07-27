@@ -3,11 +3,17 @@ layout: post
 title: Frozen Grapes
 author: Austin Jones
 date: '2025-07-02'
-exceprt: TODO
+exceprt: "
+Accepting help can seem like it is for _the weak_.
+However, it is an important step in progressing though life.
+The process of learning how to accept this help can show you how to value yourself.
+Giving and accepting graces are two sides of the same coin.
+Working to learn them both with benefit you and society.
+"
 ---
 
 <!-- intro -->
-I like frozen grapes.
+I love snacking on frozen grapes.
 They're a bit of a comfort food for me.
 My first step mother loved frozen grapes.
 When she was pregnant with my little, half brother, all she wanted was too sweet Kool-Aid, frozen grapes, and the (soon to decline) Subway sub sandwiches.
