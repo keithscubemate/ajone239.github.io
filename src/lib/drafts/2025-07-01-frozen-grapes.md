@@ -91,7 +91,7 @@ Things like asking questions, accepting help, or relying on other may be "weak".
 More often though, they can be an enabling step for people to grow.
 
 <!-- what it boils down to -->
-This could sound stupid: e.g. "just accept love man -- let people do stuff for you."
+This could all sound stupid: e.g. "just accept love man -- let people do stuff for you."
 What this all seems to boil down to then is: a lack of self trust and a lack of self worth.
 You won't accept help, because you don't trust yourself to work to ween off it.
 You won't accept love, because you don't think you give people enough value to earn it.
@@ -112,12 +112,27 @@ Similarly, if you are your own warden or don't rest, you will drain yourself dry
 Internally, self worth and self trust start to blend.
 The amount that you value yourself and the confidence you have in yourself aren't that different.
 
+So, how do you start to loving yourself?
+I think the two steps from [DBT](https://en.wikipedia.org/wiki/Dialectical_behavior_therapy).
+This therapy emphasizes "acceptance and change".
+You "accept" where you are in terms of trust with yourself.
+You then work to "change" and improve that facet of the relationship.
+What this really does (besides the self improvement) is give you a stage for proving you to yourself.
+This is the stage upon which you will grow your trust with yourself and then your value.
+
+In my experience, the fear of becoming a "bum" is quashed by the gained effectiveness of allowed rest.
+As I said above, I would swap from going as hard as I could to hibernating.
+These hibernations were often extended by the fact that I couldn't stand the thought of being so useless.
+In the same way that I don't judge myself for resting on the couch after a run, I learned to not judge myself for resting my brain after hard studying.
+Without this dissonance, I can rest and recover better.
+By resting better and more, I can perform better.
+Peace, grace, and acceptance are invaluable tools in fighting this issues.
+
 <!-- Accepting Others' Love -->
-Something I've been working on is accepting love.
+In light of getting more comfortable giving myself grace, something I've been working on is accepting love.
 "Taking up space" is what I've been referring to it as.
 There has long been discourse on making room for others and giving love.
 There is little talk of taking up space.
-
 Society, and likewise love, requires give and take.
 Host a book club, but do let people bring food.
 Let your friend help you move, but take them out to dinner or host them.
@@ -125,4 +140,7 @@ Accept help from a mentor, then mentor those who look to you.
 
 <!-- Conclusion -->
 It's understandable to be afraid of leaning on others.
+It's isn't something that is particularly taught or encouraged.
 However, not letting yourself be helped or not even helping yourself is an impediment if not something that will make you weaker.
+It is the avoidance of the reality of your situation that is encouraged by the fear of weakness or fear of accepting help/love.
+It is only through the engagement with this reality that you can overcome this fear from where you are.
