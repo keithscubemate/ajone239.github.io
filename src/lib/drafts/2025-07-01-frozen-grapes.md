@@ -43,7 +43,7 @@ I've long since been afraid of being more lovable than likeable.
 
 <!-- elaborate on love vs like -->
 <!-- make the problem visceral -->
-Without sugaring, I'm afraid of being my dad.
+Without sugaring it, I'm afraid of being my dad.
 You like jello.
 You love your mom.
 To like is to derive joy from, to affine toward someone, to be pleased.
@@ -53,7 +53,7 @@ But he failed to bring her joy.
 He failed to deliver on the promises he made.
 
 <!-- intro to the meat -->
-But was does this fear actually comprise?
+But what does this fear actually comprise?
 I think, in part, it is a pragmatic fear of disservicing people you love.
 As you can tell from the term of endearment "biological father", he and I aren't on exactly _liking_ terms either.
 I have been through the fun cycle of trying to love someone despite them being chronically unlikable.
@@ -63,12 +63,10 @@ The thought of putting others through that _scares_ me.
 I think a less pragmatic and more stifling constituent is a fear of weakness.
 I'm afraid of needing your love.
 And no, I'm not afraid of "needing your love" like I might do in a song from the 80's.
-I'm afraid of needing your your love, because maybe without out it, I'm just not likeable enough -- I just don't provided enough value.
+I'm afraid of needing your love, because maybe without out it, I'm just not likeable enough -- I just don't provided enough value.
 It feels that to be allowed to win is to be lied to.
 If someone puts up with your unfunny jokes you are being cheated from experience.
 I fear that the things done in the name of love will coddle my own weaknesses.
-
-<!-- connect these two sections better -->
 
 <!-- how do i go easy on myself without being a bum -->
 A reservation I had before I started therapy was something to the tune of, "what if my issues that I have _make_ me hardworking and good at problem solving."
@@ -97,13 +95,13 @@ Things like asking questions, accepting help, or relying on other may be "weak".
 More often though, they can be an enabling step for people to grow.
 
 <!-- what it boils down to -->
-This could all sound stupid: e.g. "just accept love man -- let people do stuff for you."
+This could all sound stupid: e.g. "just accept love man -- let people do stuff for you," but I don't think it is as simple as "just" and "let make it out to be.
 What this all seems to boil down to then is: a lack of self trust and a lack of self worth.
 You won't accept help, because you don't trust yourself to work to ween off it.
 You won't accept love, because you don't think you give people enough value to earn it.
 This might all sound dramatic, but I think it is the fall out from the strategy: "I will never have debt if I never owe anyone anything."
 Economics live in all things; social interactions aren't safe from this.
-The is always (even if only implicit) a social ledger that tallies how much "worth" a person has to you.
+There is always (even if only implicit) a social ledger that tallies how much "worth" a person has to you.
 This is simultaneously reductive and complex.
 None the less, it is true.
 
@@ -127,7 +125,7 @@ What this really does (besides the self improvement) is give you a stage for pro
 This is the stage upon which you will grow your trust with yourself and then your value.
 
 In my experience, the fear of becoming a "bum" is quashed by the gained effectiveness of allowed rest.
-As I said above, I would swap from going as hard as I could to hibernating.
+As I said above, I would swap from redlining to hibernating.
 These hibernations were often extended by the fact that I couldn't stand the thought of being so useless.
 In the same way that I don't judge myself for resting on the couch after a run, I learned to not judge myself for resting my brain after hard studying.
 Without this dissonance, I can rest and recover better.
@@ -143,6 +141,7 @@ Society, and likewise love, requires give and take.
 Host a book club, but do let people bring food.
 Let your friend help you move, but take them out to dinner or host them.
 Accept help from a mentor, then mentor those who look to you.
+One's role in a community or society is a wholistic one.
 
 <!-- Conclusion -->
 It's understandable to be afraid of leaning on others.
