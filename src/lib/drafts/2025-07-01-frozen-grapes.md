@@ -12,11 +12,34 @@ Working to learn them both with benefit you and society.
 "
 ---
 
+<!--
+Notes:
+
+- Think of how things read not how they sound.
+    + Address sentence structure
+    + too many interjections
+- Show your work more
+    + tell stories about how you've had to overcome accepting love
+    + Too matter of fact in tone
+    + why should anyone listen to this?
+    + make it more personal
+- tie in the beginning to the end
+    + treat the essay as a running track
+- the second half of the essay fetas
+- 2 essay problems:
+    + an essay about overcoming perfectionism through self acceptance
+    + an essay about how you have to develop self trust to work on accepting love.
+    + these kinda touch tips in the way that the
+        * parental annecdotes show that I know what weakness and “bummness” looks like
+        * the therapy anecdote shows how that manifested into a grindset but idk if that’s clear to a not me reader
+
+-->
+
 <!-- intro -->
 I love snacking on frozen grapes.
 They're a bit of a comfort food for me.
 My first step mother loved frozen grapes.
-When she was pregnant with my little, half brother, all she wanted was too sweet Kool-Aid, frozen grapes, and the (soon to decline) Subway sub sandwiches.
+When she was pregnant with my little, half brother, all she wanted was too-sweet-Kool-Aid, frozen grapes, and the (soon to decline) Subway sub sandwiches.
 
 <!--
 creates tension for someone being under served
