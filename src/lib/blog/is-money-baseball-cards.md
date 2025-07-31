@@ -3,7 +3,7 @@ layout: post
 title: Is Money Baseball Cards?
 author: Austin Jones
 date: '2025-07-31'
-exceprt: "
+excerpt: "
 While value store is necessary for any economic system, some offer much more utility than others.
 Through the lense of trading cards, we can get clarity in the lack of utility in company shares.
 "
