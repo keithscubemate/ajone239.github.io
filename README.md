@@ -19,8 +19,8 @@ What it needs:
 - [x] asset hosting
 - [x] github action build
 - [x] hosting in github pages
-- [ ] port to main blog
-- [ ] rss link in footer
+- [x] port to main blog
+- [x] rss link in footer
 - [ ] Resume Section
 - [ ] icon
 - [ ] cool auto navigation hamburger
