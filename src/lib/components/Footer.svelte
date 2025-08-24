@@ -1,8 +1,6 @@
 <script>
-    import { SiteDescription, SiteTitle, SiteUrl } from "$lib/info";
+    import { SiteDescription, SiteTitle } from "$lib/info";
     import rssLogo from "$lib/assets/rss_logo.png";
-
-    const rssUrl = `${SiteUrl}/rss`;
 </script>
 
 <footer>
@@ -14,7 +12,7 @@
     </span>
 
     <span>
-        <a href={rssUrl}>
+        <a href="/rss.xml">
             <div class="rss-logo-containter">
                 <img class="rss-logo" alt="The rss logo" src={rssLogo} />
                 <p>RSS Feed</p>
