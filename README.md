@@ -21,10 +21,14 @@ What it needs:
 - [x] hosting in github pages
 - [x] port to main blog
 - [x] rss link in footer
+- [ ] cool auto navigation hamburger
+- [ ] Better homepage
+    + [ ] More about me
+    + [ ] just latest post with link to blog
+        * [ ] need to have a get one post api
+- [ ] pagination of blog posts?
 - [ ] Resume Section
 - [ ] icon
-- [ ] cool auto navigation hamburger
-- [ ] pagination of blog posts?
 - [ ] hosting in some other way
 
 
