@@ -10,38 +10,26 @@
     let { children }: LayoutProps = $props();
 
     let open = $state(true);
-    let bt = $derived(open ? "c" : "o");
-
-    $inspect(open).with(console.trace);
 </script>
 
-<body>
-    <header>
-        <div class="header-display-desktop">
-            <DesktopHeader />
-        </div>
+<div class="header-display-desktop">
+    <DesktopHeader />
+</div>
 
-        <div class="header-display-mobile">
-            <MobileHeader bind:open />
-        </div>
-    </header>
+<div class="header-display-mobile">
+    <MobileHeader bind:open />
+</div>
 
-    <div class="site-wrapper">
-        <main>
-            <button onclick={() => (open = !open)}>
-                {bt}
-            </button>
-
-            <div class="main-content-wrapper">
-                {@render children()}
-            </div>
-            <div class="header-display-mobile">
-                <Sidebar bind:open />
-            </div>
-        </main>
+<div class="site-wrapper">
+    <div class="header-display-mobile">
+        <Sidebar bind:open />
     </div>
-    <Footer />
-</body>
+    <div class="main-content-wrapper">
+        {@render children()}
+    </div>
+</div>
+
+<Footer />
 
 <style lang="scss">
     .main-content-wrapper {

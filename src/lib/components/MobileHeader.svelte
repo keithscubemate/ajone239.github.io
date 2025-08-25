@@ -11,12 +11,7 @@
         <a href="/">{SiteTitle}</a>
     </h3>
 
-    <button
-        onclick={() => {
-            open = !open;
-            alert("test");
-        }}
-    >
+    <button onclick={() => (open = !open)}>
         {buttonText}
     </button>
 </div>
