@@ -22,6 +22,8 @@ What it needs:
 - [x] port to main blog
 - [x] rss link in footer
 - [ ] cool auto navigation hamburger
+- [ ] dark mode button
+- [ ] Mono space font (see https://bytemash.net)
 - [ ] Better homepage
     + [ ] More about me
     + [ ] just latest post with link to blog
