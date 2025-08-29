@@ -1,5 +1,8 @@
-<script>
+<script lang="ts">
     import { SiteTitle } from "$lib/info";
+    import type { MenuLink } from "$lib/types/MenuLink";
+
+    let { menuLinks }: { menuLinks: MenuLink[] } = $props();
 </script>
 
 <div>
@@ -9,15 +12,15 @@
 
     <nav>
         <ul>
-            <li>
-                <a href="/blog">Blog</a>
-            </li>
-            <li>
-                <a href="/arcade">Arcade</a>
-            </li>
-            <li>
-                <a href="/about">About</a>
-            </li>
+            {#each menuLinks as menuLink (menuLink.title)}
+                <li>
+                    <a href={menuLink.url}>{menuLink.title}</a>
+                </li>
+            {:else}
+                <li>
+                    <p>There's no links :(</p>
+                </li>
+            {/each}
         </ul>
     </nav>
 </div>

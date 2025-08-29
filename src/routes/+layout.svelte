@@ -5,25 +5,25 @@
     import type { LayoutProps } from "./$types";
     import MobileHeader from "$lib/components/MobileHeader.svelte";
     import DesktopHeader from "$lib/components/DesktopHeader.svelte";
-    import Sidebar from "$lib/components/Sidebar.svelte";
 
     let { children }: LayoutProps = $props();
 
-    let open = $state(true);
+    const menuLinks = [
+        { title: "Blog", url: "/blog" },
+        { title: "Arcade", url: "/arcade" },
+        { title: "About", url: "/about" },
+    ];
 </script>
 
 <div class="header-display-desktop">
-    <DesktopHeader />
+    <DesktopHeader {menuLinks} />
 </div>
 
 <div class="header-display-mobile">
-    <MobileHeader bind:open />
+    <MobileHeader {menuLinks} />
 </div>
 
 <div class="site-wrapper">
-    <div class="header-display-mobile">
-        <Sidebar bind:open />
-    </div>
     <div class="main-content-wrapper">
         {@render children()}
     </div>
