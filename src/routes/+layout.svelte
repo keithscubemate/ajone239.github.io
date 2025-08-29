@@ -15,24 +15,25 @@
     ];
 </script>
 
-<div class="header-display-desktop">
-    <DesktopHeader {menuLinks} />
-</div>
-
-<div class="header-display-mobile">
-    <MobileHeader {menuLinks} />
-</div>
-
 <div class="site-wrapper">
+    <div class="header-display-desktop">
+        <DesktopHeader {menuLinks} />
+    </div>
+
+    <div class="header-display-mobile">
+        <MobileHeader {menuLinks} />
+    </div>
+
     <div class="main-content-wrapper">
         {@render children()}
     </div>
-</div>
 
-<Footer />
+    <Footer />
+</div>
 
 <style lang="scss">
     .main-content-wrapper {
+        flex: 1;
         max-width: 45rem;
         margin: 0 auto;
         padding: 1rem;

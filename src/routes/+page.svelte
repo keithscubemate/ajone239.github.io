@@ -5,7 +5,7 @@
     import type { PageProps } from "./$types";
 
     let { data }: PageProps = $props();
-    let { posts }: { posts: PostEntry[] } = data;
+    let { post }: { post: PostEntry } = data;
 </script>
 
 <svelte:head>
@@ -14,30 +14,31 @@
 
 <h1>Welcome to the Journey</h1>
 
+<!-- prettier-ignore -->
 <p>
-    Be it
-    <a href="/arcade">games</a>,
-    <a href="/blog">writings</a>, or
-    <a href="/about">personal info</a>
-    this is where I put my digital goods. I hope you enjoy it.
+    Hey, I'm Austin -- the one having the journey.
+    This blog is the storehouse for my digital goods, thoughts, and whatever else lands here.
 </p>
 
-<h2>Recent Posts from my <a href="/blog">Blog</a></h2>
+<!-- prettier-ignore -->
+<p>
+    I've made a few small web games -- mostly exposure therapy for publishing code.
+    Some games I'm proud of; some of the games... also exist.
+    You can play them in the <a href="/arcade">arcade</a>.
+</p>
 
-<ul>
-    {#each posts as entry (entry.path)}
-        <li>
-            <BlogPostCard {entry} />
-        </li>
-    {/each}
-</ul>
+<!-- prettier-ignore -->
+<p>
+    In the <a href="/blog">blog</a> proper, you'll find a collection of other thoughts and musings.
+    Read my latest post below.
+</p>
 
-<style>
-    ul {
-        display: contents;
-    }
+<!-- prettier-ignore -->
+<p>
+    Like most personal websites, this doubles as a living resume.
+    Find my work and experience <a href="/about">here</a>.
+</p>
 
-    li {
-        list-style-type: none;
-    }
-</style>
+<h2>The latest blog post:</h2>
+
+<BlogPostCard entry={post} />
