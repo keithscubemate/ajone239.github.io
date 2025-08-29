@@ -27,9 +27,9 @@ What it needs:
         * [x] need to have a get one post api
     + [x] Expand sections
     + [x] More about me
+- [x] blog search
 - [ ] dark mode button
 - [ ] Mono space font (see https://bytemash.net)
-- [x] blog search
 - [ ] blog tags
     + [ ] support blog search
 - [ ] pagination of blog posts?
