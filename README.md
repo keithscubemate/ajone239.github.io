@@ -24,6 +24,7 @@ What it needs:
 - [ ] cool auto navigation hamburger
 - [ ] dark mode button
 - [ ] Mono space font (see https://bytemash.net)
+- [ ] Make it cool
 - [ ] Better homepage
     + [ ] More about me
     + [ ] just latest post with link to blog
