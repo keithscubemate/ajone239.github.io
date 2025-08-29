@@ -29,7 +29,9 @@ What it needs:
     + [x] More about me
 - [ ] dark mode button
 - [ ] Mono space font (see https://bytemash.net)
-- [ ] blog search
+- [x] blog search
+- [ ] blog tags
+    + [ ] support blog search
 - [ ] pagination of blog posts?
 - [ ] Resume Section
 - [ ] icon

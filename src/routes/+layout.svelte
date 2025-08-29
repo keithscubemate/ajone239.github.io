@@ -32,9 +32,13 @@
 </div>
 
 <style lang="scss">
+    .site-wrapper {
+        display: flex;
+    }
     .main-content-wrapper {
         flex: 1;
         max-width: 45rem;
+        width: 100%;
         margin: 0 auto;
         padding: 1rem;
     }
