@@ -55,20 +55,20 @@
         width: 95%;
         padding: 10px;
         border: none;
-        border: 2px solid #ccc;
+        border: 2px solid var(--main-border-color);
         border-radius: 5px;
         font-size: 1rem;
         background-color: transparent;
         outline: none;
 
         &::placeholder {
-            color: #888;
+            color: var(--place-holder-text-color);
         }
 
         &:focus,
         &:hover {
-            border-color: #777;
-            box-shadow: 0 2px 0 1px #999;
+            border-color: var(--border-hover-color);
+            box-shadow: 0 2px 0 1px var(--border-hover-color);
         }
     }
     ul {

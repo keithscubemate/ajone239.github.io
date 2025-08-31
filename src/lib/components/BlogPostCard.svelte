@@ -30,7 +30,7 @@
 
 <style lang="scss">
     .container {
-        border-bottom: 2px solid lightgrey;
+        border-bottom: 2px solid var(--main-border-color);
     }
     .card {
         margin: 1px;
@@ -38,7 +38,7 @@
         border-radius: 8px;
 
         &.hover:hover {
-            background: lightgrey;
+            background: var(--hover-bg-color);
         }
     }
     .date {

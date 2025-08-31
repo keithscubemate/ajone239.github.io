@@ -3,6 +3,7 @@
     import type { MenuLink } from "$lib/types/MenuLink";
     import { slide } from "svelte/transition";
     import Hamburger from "./Hamburger.svelte";
+    import ThemeToggle from "./ThemeToggle.svelte";
 
     let { menuLinks }: { menuLinks: MenuLink[] } = $props();
 
@@ -15,9 +16,14 @@
             <a href="/" onclick={() => (open = false)}>{SiteTitle}</a>
         </h3>
 
-        <button class="nav-toggle" onclick={() => (open = !open)}>
-            <Hamburger {open} />
-        </button>
+        <div class="toggle-container">
+            <div class="theme-toggle">
+                <ThemeToggle />
+            </div>
+            <button class="nav-toggle" onclick={() => (open = !open)}>
+                <Hamburger {open} />
+            </button>
+        </div>
     </div>
 
     <!-- TODO: is this good for accessibility? -->
@@ -55,12 +61,20 @@
         align-items: center;
         border-bottom: 2px solid lightgrey;
     }
+
     .header-content {
         padding: 0.5rem;
         display: flex;
         flex: 1;
         align-items: center;
         justify-content: space-between;
+    }
+
+    .toggle-container {
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: flex-end;
     }
 
     .nav-toggle {
@@ -76,9 +90,16 @@
         }
     }
 
+    .theme-toggle {
+        margin-right: 5px;
+        padding-right: 10px;
+        border-right: solid 2px var(--main-border-color);
+    }
+
     h3 {
         margin: 10px;
     }
+
     a {
         color: inherit;
         &.nav-links {
@@ -92,17 +113,20 @@
             font-weight: bold;
         }
     }
+
     aside {
-        border-top: dashed lightgrey 2px;
+        border-top: dashed var(--main-border-color) 2px;
         padding: 5px;
         display: flex;
         justify-content: center;
     }
+
     ul {
         list-style: none;
         display: contents;
         border: solid red 1px;
     }
+
     li {
         margin-bottom: 10px;
         text-align: center;

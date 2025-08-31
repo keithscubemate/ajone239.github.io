@@ -27,7 +27,7 @@
             margin: 3px;
             width: 25px;
             height: 3px;
-            background: #000;
+            background: var(--menu-color);
             border-radius: 1.5px;
         }
     }
@@ -40,7 +40,7 @@
             margin-top: -3px;
             width: 20px;
             height: 3px;
-            background: #000;
+            background: var(--menu-color);
             border-radius: 1px;
         }
 

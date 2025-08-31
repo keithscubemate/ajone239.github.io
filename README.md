@@ -23,12 +23,8 @@ What it needs:
 - [x] rss link in footer
 - [x] cool auto navigation hamburger
 - [x] Better homepage
-    + [x] just latest post with link to blog
-        * [x] need to have a get one post api
-    + [x] Expand sections
-    + [x] More about me
 - [x] blog search
-- [ ] dark mode button
+- [x] dark mode button
 - [ ] Mono space font (see https://bytemash.net)
 - [ ] blog tags
     + [ ] support blog search
