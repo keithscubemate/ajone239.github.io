@@ -25,6 +25,8 @@ What it needs:
 - [x] Better homepage
 - [x] blog search
 - [x] dark mode button
+- [ ] dark mode for code
+- [ ] style in line code blocks
 - [ ] Mono space font (see https://bytemash.net)
 - [ ] blog tags
     + [ ] support blog search
