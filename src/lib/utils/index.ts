@@ -1,9 +1,15 @@
+import type { Post } from '$lib/types/Post';
 import { type PostEntry } from '$lib/types/PostEntry';
 
 type fetchProto = () => Promise<PostEntry[]>;
 
+interface MarkdownModule {
+    metadata: Post;
+    default: unknown;
+}
+
 export const fetchMarkdownPosts: fetchProto = async () => {
-    const allPostFiles = import.meta.glob('/src/lib/blog/*.md');
+    const allPostFiles = import.meta.glob<MarkdownModule>('/src/lib/blog/*.md');
     const iterablePostFiles = Object.entries(allPostFiles);
 
     const allPosts = await Promise.all(
