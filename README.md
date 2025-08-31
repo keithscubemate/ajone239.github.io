@@ -26,7 +26,7 @@ What it needs:
 - [x] blog search
 - [x] dark mode button
 - [ ] dark mode for code
-- [ ] fix the theming in the search bar
+- [x] fix the theming in the search bar
 - [ ] style in line code blocks
 - [ ] Mono space font (see https://bytemash.net)
 - [ ] blog tags

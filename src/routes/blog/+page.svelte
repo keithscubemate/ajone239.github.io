@@ -55,6 +55,7 @@
         width: 95%;
         padding: 10px;
         border: none;
+        color: var(--text-color);
         border: 2px solid var(--main-border-color);
         border-radius: 5px;
         font-size: 1rem;
