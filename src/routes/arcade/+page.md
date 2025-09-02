@@ -16,6 +16,7 @@ The mobile games
 - [Breakout (mobile friendly)](https://ajone239.github.io/breakout_two/)
 - [Block Stacker](https://ajone239.github.io/block_stacker/)
 - [Click Wars](https://ajone239.github.io/click_wars/)
+- [P5 Test](/arcade/p5_test)
 
 The games
 --------------------

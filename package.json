@@ -19,6 +19,7 @@
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"mdsvex": "^0.12.6",
+		"p5": "^2.0.5",
 		"prettier": "^3.4.2",
 		"prettier-plugin-svelte": "^3.3.3",
 		"sass": "^1.89.2",
@@ -30,6 +31,7 @@
 		"vite-plugin-devtools-json": "^0.2.0"
 	},
 	"dependencies": {
+		"p5-svelte": "^3.1.2",
 		"rehype-autolink-headings": "^7.1.0",
 		"rehype-slug": "^6.0.0"
 	}
